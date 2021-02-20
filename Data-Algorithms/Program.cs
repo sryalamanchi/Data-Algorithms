@@ -7,6 +7,7 @@ namespace Data_Algorithms
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+
 		}
 	}
 }
